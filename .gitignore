@@ -1,0 +1,10 @@
+# generated files
+*.o
+*.ko
+.ax88179_178a.ko.cmd
+.ax88179_178a.mod.o.cmd
+.ax88179_178a.o.cmd
+.tmp_versions/
+Module.symvers
+ax88179_178a.mod.c
+modules.order
